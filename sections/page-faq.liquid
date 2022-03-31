@@ -1,0 +1,48 @@
+{% assign page_contents = page.content | split: '<h2>' %}
+<div class="page-faq">
+    <div data-section-type="page-faq" data-section-id="{{section.id}}">
+        <h1 class="page-title faq-page--title" {% if section.settings.title_background %}style="background-image: url('{{section.settings.title_background | img_url: 'master'}}')"{% endif %}>{{page.title}}</h1>
+        <div class="rte faq_contents">
+            {% for f_c in page_contents %}
+                {%- assign f_m_t = f_c | split: '</h2>' | first -%}
+                {%- assign f_m_c = f_c | split: '</h2>' | last | split: '<h3>' -%}
+                {% if f_m_t != blank %}
+                    <div class="faqs-block">
+                        <h2 class="faq-main--title">{{f_m_t}}</h2>
+                        {% for single_faq in f_m_c %}
+                            {%- assign single_faq_title = single_faq | split: '</h3>' | first -%}
+                            {%- assign single_faq_content = single_faq | split: '</h3>' | last -%}
+                            {% if single_faq_title != blank %}
+                                <div class="single-faq--block">
+                                    <h3 class="single-faq--title">{{single_faq_title}}</h3>
+                                    <div class="single-faq--content">{{single_faq_content}}</div>
+                                </div>    
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<script>
+    var singleFaqs = document.querySelectorAll(".single-faq--block"); 
+    singleFaqs.forEach((singleFaq) => {
+        var singleFaqTitle = singleFaq.querySelector('.single-faq--title');
+        singleFaqTitle.addEventListener('click', ()=>{
+            singleFaq.classList.toggle('active');
+        })
+    })
+</script>
+{% schema %}
+{
+    "name":"Page - Faqs",
+    "settings":[
+        {
+            "type":"image_picker",
+            "id":"title_background",
+            "label":"Title background"
+        }
+    ]
+}
+{% endschema %}

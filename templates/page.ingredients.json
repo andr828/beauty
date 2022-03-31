@@ -1,0 +1,164 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-ingredients",
+      "blocks": {
+        "91e13346-ba46-4d24-b081-7e8754532a59": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-fa.png",
+            "title": "FOLATE",
+            "content": "Folate is also known as the water-soluble vitamin B9. It is an essential micronutrient.",
+            "ingredient_page_link": "https:\/\/beautyandcutie.com\/pages\/folid-acid-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "d237c5c4-c84d-4ecc-bded-5698b780240a": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/B_C_flavicon_final_changes_B6.jpg",
+            "title": "VITAMIN B6",
+            "content": "Vitamin B6 is an essential water-soluble vitamin that our body cannot synthesize by itself.",
+            "ingredient_page_link": "shopify:\/\/pages\/nettle-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "0ddc194d-0590-415e-b616-36d8421929c6": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-b.png",
+            "title": "BIOTIN",
+            "content": "Biotin, also known as vitamin B7 or vitamin H, (where the H originates from “haar” and “haut”, which are the German words for hair and skin), is a water-soluble vitamin.",
+            "ingredient_page_link": "shopify:\/\/pages\/biotin-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "48297add-355e-406e-b938-f199bdeaefd2": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-pa.png",
+            "title": "PANTOTHENIC ACID",
+            "content": "Vitamin B5, also known as pantothenic acid, is an essential nutrient naturally present in some foods, supplemented in other foods, and is also commonly available as a dietary supplement.",
+            "ingredient_page_link": "shopify:\/\/pages\/pantothenic-acid-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "95439f3e-38ec-40a2-8ba1-909760829c47": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-z.png",
+            "title": "ZINC",
+            "content": "Zinc is a metal and an essential nutrient for our general health. There is no effective long-term storage of Zinc available in our bodies, so we must acquire it through our diet or via supplementation.",
+            "ingredient_page_link": "shopify:\/\/pages\/zinc",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "e8b948d3-ca0c-4af0-afa7-921a2353c6f3": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-l.png",
+            "title": "L-LYSINE",
+            "content": "Lysine is an essential amino acid that is required for making proteins. Our bodies cannot produce it by themselves, so we must obtain it through diet or supplementation.",
+            "ingredient_page_link": "shopify:\/\/pages\/l-lysine-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "ecf89128-b803-479c-b097-c77a6fe3f63b": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-va.png",
+            "title": "VIT A",
+            "content": "Vitamin A is another fat-soluble essential vitamin. Similar to the case with vitamin C, our bodies cannot produce vitamin A themselves.",
+            "ingredient_page_link": "shopify:\/\/pages\/vitamin-a-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "cc973a85-0833-4645-a69e-5773f4ac2804": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-e.png",
+            "title": "VIT E",
+            "content": "Vitamin E is an essential vitamin for your health.  You may see or read about it being referred to as “fat-soluble”.",
+            "ingredient_page_link": "shopify:\/\/pages\/vitamin-e-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "06d89ccf-1a6e-4d36-b765-cb76db0778ed": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/B_C_flavicon_final_changes_S.jpg",
+            "title": "BAMBOO EXTRACT (SILICA)",
+            "content": "Silica is a natural compound that is composed of the elements silicon and oxygen.",
+            "ingredient_page_link": "shopify:\/\/pages\/horsetail-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "f93585ce-7579-4105-a416-42560c959cad": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-c.png",
+            "title": "VIT C",
+            "content": "Vitamin C, also known as ascorbic acid, is an essential vitamin our body needs to maintain good health.",
+            "ingredient_page_link": "shopify:\/\/pages\/vitamin-c-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "317a3802-ad36-40d0-9394-92c90e8fd0e1": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-m.png",
+            "title": "L-METHIONINE",
+            "content": "L-methionine is an essential amino acid that falls into that category of compounds that your body cannot produce by itself, so it must be obtained through diet or supplementation.",
+            "ingredient_page_link": "shopify:\/\/pages\/l-methionine-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "50dfae97-d9c0-465b-a481-4879e3e27766": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-ha.png",
+            "title": "HYALURONIC ACID",
+            "content": "Hyaluronic acid (also sometimes called hyaluronan) is neither a vitamin nor mineral, but actually a carbohydrate that is naturally present in our bodies.",
+            "ingredient_page_link": "shopify:\/\/pages\/hyaluronic-acid-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        },
+        "392e815c-404b-487f-a394-2cd3f582ff10": {
+          "type": "ingredient",
+          "settings": {
+            "ingredient_image": "shopify:\/\/shop_images\/icon-p.png",
+            "title": "L-PROLINE",
+            "content": "L- proline is an amino acid and an important building block of many different proteins.",
+            "ingredient_page_link": "shopify:\/\/pages\/l-proline-hair-skin-and-nails",
+            "learn_more_label": "Learn more"
+          }
+        }
+      },
+      "block_order": [
+        "91e13346-ba46-4d24-b081-7e8754532a59",
+        "d237c5c4-c84d-4ecc-bded-5698b780240a",
+        "0ddc194d-0590-415e-b616-36d8421929c6",
+        "48297add-355e-406e-b938-f199bdeaefd2",
+        "95439f3e-38ec-40a2-8ba1-909760829c47",
+        "e8b948d3-ca0c-4af0-afa7-921a2353c6f3",
+        "ecf89128-b803-479c-b097-c77a6fe3f63b",
+        "cc973a85-0833-4645-a69e-5773f4ac2804",
+        "06d89ccf-1a6e-4d36-b765-cb76db0778ed",
+        "f93585ce-7579-4105-a416-42560c959cad",
+        "317a3802-ad36-40d0-9394-92c90e8fd0e1",
+        "50dfae97-d9c0-465b-a481-4879e3e27766",
+        "392e815c-404b-487f-a394-2cd3f582ff10"
+      ],
+      "settings": {
+        "page_banner": "shopify:\/\/shop_images\/page-banner.jpg",
+        "ingredient_content_header": "Learn more about our ingredients",
+        "show_narrow_page": false,
+        "pagelist": "",
+        "page_sidebar_title": "Page sidebar title"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

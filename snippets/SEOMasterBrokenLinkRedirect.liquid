@@ -1,0 +1,11 @@
+<script type='text/javascript'>let SEOMasterShop ='mybeautyshot.myshopify.com'; let SEOMasterCode = 'dd8c98b533965886e0c61a56c50b25ed26c9c5a1';</script>﻿﻿<!-- Start : SEO Master BrokenLink Redirect -->
+<script type="text/javascript">
+window.fetch("https://api-seomaster.giraffly.com/api/v1/receive_url?shop="+SEOMasterShop+"&code="+SEOMasterCode+"&url="+window.location.pathname+window.location.search)
+.then(response => response.json())
+.then(data => {
+  if(data.code == 200){
+    window.location.href = data.data
+  }
+})
+</script>
+<!-- END : SEO Master BrokenLink Redirect -->

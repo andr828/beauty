@@ -1,0 +1,13 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-faq",
+      "settings": {
+        "title_background": "shopify:\/\/shop_images\/page-banner.jpg"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
