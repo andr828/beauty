@@ -28,10 +28,13 @@
       <div class="homepage-text-promo {{ column_width }} mobile-3 text-promo-{{ block.id }}" {{ block.shopify_attributes }}>
         
           {% if block.settings.image != blank %}
+          <a href="{{ block.settings.link }}">
             {% include 'basic-responsive-image', type: block.settings.image %}
             <noscript>
               <img src="{{ block.settings.image | img_url: '800x' }}" alt="{{ block.settings.image.alt }}">
             </noscript>
+          </a>
+
           {% endif %}
         
         <div class="text-promo-content">
