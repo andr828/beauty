@@ -5176,6 +5176,11 @@ $(document).ready(function() {
   sections.register('mobile-navigation', theme.mobileNav);
   sections.register('map', theme.Maps);
   sections.register('custom-page-section', theme.CustomPage);
+
+  $('.references-title').on('click', function(){
+    $('.references-title').toggleClass('open');
+    $('.reference_list').toggleClass('open');
+  })
 });
 
 
